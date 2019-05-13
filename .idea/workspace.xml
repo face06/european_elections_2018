@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c908393-7b99-47c1-9501-a886854e777e" name="Default Changelist" comment="Update pace and urgence-ecologie">
-      <change afterPath="$PROJECT_DIR$/images/federaliste.jpg" afterDir="false" />
+    <list default="true" id="8c908393-7b99-47c1-9501-a886854e777e" name="Default Changelist" comment="Update list">
+      <change afterPath="$PROJECT_DIR$/images/initiative-citoyenne.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listes/parti-federaliste-europeen.html" beforeDir="false" afterPath="$PROJECT_DIR$/listes/parti-federaliste-europeen.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listes/mouvement-pour-lintiative-citoyenne.html" beforeDir="false" afterPath="$PROJECT_DIR$/listes/mouvement-pour-lintiative-citoyenne.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,11 +29,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/listes/parti-federaliste-europeen.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="331" column="59" lean-forward="true" selection-start-line="331" selection-start-column="59" selection-end-line="331" selection-end-column="59" />
+            <state relative-caret-position="322">
+              <caret line="326" column="54" lean-forward="true" selection-start-line="326" selection-start-column="54" selection-end-line="326" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/listes/mouvement-pour-lintiative-citoyenne.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="644">
+              <caret line="334" column="38" lean-forward="true" selection-start-line="334" selection-start-column="38" selection-end-line="334" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -89,6 +98,7 @@
         <option value="$PROJECT_DIR$/listes/parti-animaliste.html" />
         <option value="$PROJECT_DIR$/listes/neutre-et-actif.html" />
         <option value="$PROJECT_DIR$/listes/parti-federaliste-europeen.html" />
+        <option value="$PROJECT_DIR$/listes/mouvement-pour-lintiative-citoyenne.html" />
       </list>
     </option>
   </component>
@@ -204,11 +214,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557784760318</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Update list">
+      <created>1557791211057</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1557791211057</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21900000" />
+    <option name="totallyTimeSpent" value="22331000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1440" height="1595" extended-state="4" />
@@ -279,7 +296,8 @@
     <MESSAGE value="France insoumise" />
     <MESSAGE value="Fix mistakes" />
     <MESSAGE value="Update pace and urgence-ecologie" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update pace and urgence-ecologie" />
+    <MESSAGE value="Update list" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update list" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/js/kl-scripts.js">
@@ -342,9 +360,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/listes/liste-de-la-reconquete.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/listes/mouvement-pour-lintiative-citoyenne.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/listes/cnip.html">
@@ -527,8 +542,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/listes/parti-federaliste-europeen.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="331" column="59" lean-forward="true" selection-start-line="331" selection-start-column="59" selection-end-line="331" selection-end-column="59" />
+        <state relative-caret-position="322">
+          <caret line="326" column="54" lean-forward="true" selection-start-line="326" selection-start-column="54" selection-end-line="326" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listes/mouvement-pour-lintiative-citoyenne.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="334" column="38" lean-forward="true" selection-start-line="334" selection-start-column="38" selection-end-line="334" selection-end-column="38" />
         </state>
       </provider>
     </entry>
