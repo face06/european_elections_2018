@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c908393-7b99-47c1-9501-a886854e777e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/vote.html" beforeDir="false" afterPath="$PROJECT_DIR$/vote.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/liste.html" beforeDir="false" afterPath="$PROJECT_DIR$/listes-candidates.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/union-europeenne-c-est-quoi.html" beforeDir="false" afterPath="$PROJECT_DIR$/union-europeenne-c-est-quoi.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -43,8 +45,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/union-europeenne-c-est-quoi.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="19" column="100" selection-start-line="19" selection-start-column="100" selection-end-line="19" selection-end-column="100" />
+            <state relative-caret-position="464">
+              <caret line="347" column="27" selection-start-line="347" selection-start-column="27" selection-end-line="347" selection-end-column="27" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -55,6 +57,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/listes-candidates.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="341" column="98" lean-forward="true" selection-start-line="341" selection-start-column="98" selection-end-line="341" selection-end-column="98" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vote.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="692">
@@ -90,10 +101,11 @@
       <list>
         <option value="$PROJECT_DIR$/js/kl-scripts.js" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/union-europeenne-c-est-quoi.html" />
         <option value="$PROJECT_DIR$/parlement-europeen.html" />
         <option value="$PROJECT_DIR$/listes/la-france-insoumise.html" />
         <option value="$PROJECT_DIR$/vote.html" />
+        <option value="$PROJECT_DIR$/union-europeenne-c-est-quoi.html" />
+        <option value="$PROJECT_DIR$/listes-candidates.html" />
       </list>
     </option>
   </component>
@@ -201,7 +213,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13960000" />
+    <option name="totallyTimeSpent" value="14623000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-28" width="1920" height="1108" extended-state="0" />
@@ -260,18 +272,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/union-europeenne-c-est-quoi.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="19" column="100" selection-start-line="19" selection-start-column="100" selection-end-line="19" selection-end-column="100" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/parlement-europeen.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -309,13 +309,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/listes/democratie-representative.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/liste.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/listes/ensemble-patriotes-et-gilets-jaunes.html">
       <provider selected="true" editor-type-id="text-editor" />
@@ -402,6 +395,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="552">
           <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vote.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="692">
+          <caret line="471" selection-start-line="471" selection-end-line="471" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/union-europeenne-c-est-quoi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="347" column="27" selection-start-line="347" selection-start-column="27" selection-end-line="347" selection-end-column="27" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listes-candidates.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="341" column="98" lean-forward="true" selection-start-line="341" selection-start-column="98" selection-end-line="341" selection-end-column="98" />
         </state>
       </provider>
     </entry>
