@@ -41,13 +41,6 @@ var KallyasConfig = {
 		$body = $("body"),
 		$header = $("#header");
 
-
-// Notice to prevent opening on a local environment
-	$(document).ready(function () {
-		if(window.location.href.indexOf("file:///") > -1) {
-			alert("Local environment warning!! \n\nSome of the features of this template might not work properly if the .html file is opened locally. \n\nFor best results, please preview on a web server (either http://yourdomain.com/kallyas/ or from your computer with an emulated server eg: http://localhost/kallyas/ ). Please read the documentation to learn more. ");
-		}
-	});
 // END Notice to prevent opening on a local environment
 
 
@@ -174,7 +167,7 @@ var KallyasConfig = {
 
 		var responsive_menu = cloned_menu.prependTo(page_wrapper);
 		var responsive_menu_overlay = $('<div class="zn-res-menu-overlay"/>').insertAfter(cloned_menu);
-		
+
 		var set_height = function(){
 			var _menu = $('.zn-menu-visible').last(),
 				height = _menu.css({height:'auto'}).outerHeight(true),
@@ -447,7 +440,7 @@ var KallyasConfig = {
 				}
 			});
 		});
-		
+
 
 		$('a[data-lightbox="iframe"]').magnificPopup({type: 'iframe', mainClass: 'mfp-fade', tLoading: ''});
 		$('a[data-lightbox="inline"]').magnificPopup({type: 'inline', mainClass: 'mfp-fade', tLoading: ''});
@@ -596,7 +589,7 @@ var KallyasConfig = {
 				return false;
 			});
 		});
-	}	
+	}
 // END Form Validation & Send Mail code
 
 
@@ -1015,7 +1008,7 @@ var KallyasConfig = {
 
 		/**
 		 * PhotoGallery Widget */
-		 
+
 
 		$('.photogallery-widget .caroufredsel').each(function(index, el) {
 
@@ -1194,7 +1187,7 @@ var KallyasConfig = {
 })(window.jQuery, window, document);
 
 
-// ScollSpy One page Menu 
+// ScollSpy One page Menu
 if(KallyasConfig.enableScrollSpy){
 			//#! [Configure ScrollSpy] Set the attribute on body
 	$(window).on('load scroll resize', function(){
