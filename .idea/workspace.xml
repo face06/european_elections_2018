@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c908393-7b99-47c1-9501-a886854e777e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/renaissance-en-marche.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listes/renaissance-soutenue-par-la-republique-en-marche.html" beforeDir="false" afterPath="$PROJECT_DIR$/listes/renaissance-soutenue-par-la-republique-en-marche.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listes/democratie-representative.html" beforeDir="false" afterPath="$PROJECT_DIR$/listes/democratie-representative.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,11 +16,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/listes/renaissance-soutenue-par-la-republique-en-marche.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="352" column="53" lean-forward="true" selection-start-line="352" selection-start-column="53" selection-end-line="352" selection-end-column="53" />
+            <state relative-caret-position="3588">
+              <caret line="357" column="58" lean-forward="true" selection-start-line="357" selection-start-column="58" selection-end-line="357" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/listes/democratie-representative.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="575">
+              <caret line="328" column="82" lean-forward="true" selection-start-line="328" selection-start-column="82" selection-end-line="328" selection-end-column="82" />
             </state>
           </provider>
         </entry>
@@ -74,6 +82,7 @@
         <option value="$PROJECT_DIR$/listes/parti-animaliste.html" />
         <option value="$PROJECT_DIR$/listes/les-oublies-de-l'europe.html" />
         <option value="$PROJECT_DIR$/listes/renaissance-soutenue-par-la-republique-en-marche.html" />
+        <option value="$PROJECT_DIR$/listes/democratie-representative.html" />
       </list>
     </option>
   </component>
@@ -189,11 +198,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557784760318</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Update list">
+      <created>1557789950851</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1557789950851</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20800000" />
+    <option name="totallyTimeSpent" value="20922000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1440" height="1595" extended-state="4" />
@@ -263,7 +279,8 @@
     <MESSAGE value="Fix link" />
     <MESSAGE value="France insoumise" />
     <MESSAGE value="Fix mistakes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix mistakes" />
+    <MESSAGE value="Update list" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update list" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/js/kl-scripts.js">
@@ -297,9 +314,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/listes/parti-pirate.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/listes/democratie-representative.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/listes/pace.html">
@@ -512,9 +526,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/democratie-representative.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/listes/udlef.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="529">
@@ -534,10 +545,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/democratie-representative.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/listes/renaissance-soutenue-par-la-republique-en-marche.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="352" column="53" lean-forward="true" selection-start-line="352" selection-start-column="53" selection-end-line="352" selection-end-column="53" />
+        <state relative-caret-position="3588">
+          <caret line="357" column="58" lean-forward="true" selection-start-line="357" selection-start-column="58" selection-end-line="357" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listes/democratie-representative.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="328" column="82" lean-forward="true" selection-start-line="328" selection-start-column="82" selection-end-line="328" selection-end-column="82" />
         </state>
       </provider>
     </entry>
