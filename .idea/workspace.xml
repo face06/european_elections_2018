@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8c908393-7b99-47c1-9501-a886854e777e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/listes/les-oublies-de-l'europe.html" beforeDir="false" afterPath="$PROJECT_DIR$/listes/les-oublies-de-l'europe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listes/parti-pirate.html" beforeDir="false" afterPath="$PROJECT_DIR$/listes/parti-pirate.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,10 +29,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/listes/les-oublies-de-l'europe.html">
+        <entry file="file://$PROJECT_DIR$/listes/parti-pirate.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="398" column="97" selection-start-line="398" selection-start-column="97" selection-end-line="398" selection-end-column="97" />
+            <state relative-caret-position="736">
+              <caret line="408" column="117" selection-start-line="408" selection-start-column="117" selection-end-line="408" selection-end-column="117" />
             </state>
           </provider>
         </entry>
@@ -136,6 +137,7 @@
         <option value="$PROJECT_DIR$/listes/alliance-jaune.html" />
         <option value="$PROJECT_DIR$/listes/parti-animaliste.html" />
         <option value="$PROJECT_DIR$/listes/les-oublies-de-l'europe.html" />
+        <option value="$PROJECT_DIR$/listes/parti-pirate.html" />
       </list>
     </option>
   </component>
@@ -250,7 +252,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20623000" />
+    <option name="totallyTimeSpent" value="20986000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-28" width="1920" height="1108" extended-state="0" />
@@ -316,9 +318,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/listes/la-ligne-claire.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/listes/parti-pirate.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/listes/renaissance-soutenue-par-la-republique-en-marche.html">
@@ -488,6 +487,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/listes/les-oublies-de-l'europe.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="313" column="14" lean-forward="true" selection-end-line="472" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="372">
@@ -498,10 +504,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/listes/les-oublies-de-l'europe.html">
+    <entry file="file://$PROJECT_DIR$/listes/parti-pirate.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="398" column="97" selection-start-line="398" selection-start-column="97" selection-end-line="398" selection-end-column="97" />
+        <state relative-caret-position="736">
+          <caret line="408" column="117" selection-start-line="408" selection-start-column="117" selection-end-line="408" selection-end-column="117" />
         </state>
       </provider>
     </entry>
