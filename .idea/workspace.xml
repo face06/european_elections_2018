@@ -30,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/listes/alliance-jaune.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="580">
-              <caret line="381" column="51" selection-start-line="381" selection-start-column="51" selection-end-line="381" selection-end-column="51" />
+            <state relative-caret-position="356">
+              <caret line="343" column="130" selection-start-line="343" selection-start-column="130" selection-end-line="343" selection-end-column="130" />
             </state>
           </provider>
         </entry>
@@ -257,7 +257,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19563000" />
+    <option name="totallyTimeSpent" value="19762000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-28" width="1920" height="1108" extended-state="0" />
@@ -499,8 +499,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/listes/alliance-jaune.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="381" column="51" selection-start-line="381" selection-start-column="51" selection-end-line="381" selection-end-column="51" />
+        <state relative-caret-position="356">
+          <caret line="343" column="130" selection-start-line="343" selection-start-column="130" selection-end-line="343" selection-end-column="130" />
         </state>
       </provider>
     </entry>
