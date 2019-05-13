@@ -2,7 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c908393-7b99-47c1-9501-a886854e777e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/parlement-europeen.html" beforeDir="false" afterPath="$PROJECT_DIR$/parlement-europeen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listes/a-voix-egales.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listes/alliance-jaune.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listes/allons-enfants.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listes/cnip.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listes/decroissance-2019.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listes/democratie-representative.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listes/ensemble-patriotes-et-gilets-jaunes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listes/ensemble-pour-le-frexit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listes/envie-deurope-ecologie-sociale.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listes/esperanto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listes/europe-ecologie.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listes/evolution-citoyenne.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listes/la-ligne-claire.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listes/les-europeens.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listes/les-oublies-de-l'europe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listes/liste-citoyenne-du-printemps-europeens.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listes/liste-de-la-reconquete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listes/lutte-ouvriere.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listes/mouvement-pour-lintiative-citoyenne.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listes/neutre-et-actif.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listes/pace.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listes/parti-animaliste.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listes/parti-federaliste-europeen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listes/parti-pirate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listes/parti-revolutionnaire-communistes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listes/pour-leurope-des-gens.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listes/prenez-le-pouvoir.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listes/renaissance-soutenue-par-la-republique-en-marche.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listes/udlef.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listes/une-europe-au-service-des-peuples.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listes/une-france-royale.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listes/union-de-la-droite-et-du-centre.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listes/urgence-ecologie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,40 +49,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="465" selection-start-line="465" selection-end-line="499" selection-end-column="7" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/parlement-europeen.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="838">
-              <caret line="460" column="7" selection-start-line="460" selection-start-column="7" selection-end-line="460" selection-end-column="7" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/listes/parti-revolutionnaire-communistes.html">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/union-europeenne-c-est-quoi.html">
+        <entry file="file://$PROJECT_DIR$/listes/esperanto.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/listes/evolution-citoyenne.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/listes/alliance-jaune.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/listes/union-de-la-droite-et-du-centre.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/listes/europe-ecologie.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/listes/parti-animaliste.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/listes/les-oublies-de-l'europe.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/listes/udlef.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/listes/une-europe-au-service-des-peuples.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="257" column="60" selection-start-line="257" selection-start-column="60" selection-end-line="257" selection-end-column="60" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-              </folding>
+            <state relative-caret-position="552">
+              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -78,6 +126,7 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/union-europeenne-c-est-quoi.html" />
         <option value="$PROJECT_DIR$/parlement-europeen.html" />
+        <option value="$PROJECT_DIR$/listes/la-france-insoumise.html" />
       </list>
     </option>
   </component>
@@ -95,7 +144,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -103,10 +151,21 @@
               <item name="site-elections-europeennes" type="b2602c69:ProjectViewProjectNode" />
               <item name="site-elections-europeennes" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="site-elections-europeennes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="site-elections-europeennes" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="site-elections-europeennes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="site-elections-europeennes" type="462c0819:PsiDirectoryNode" />
+              <item name="listes" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -117,6 +176,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/listes" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -164,17 +228,24 @@
       <option name="project" value="LOCAL" />
       <updated>1557777368591</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="France insoumise">
+      <created>1557781175367</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1557781175367</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12153000" />
+    <option name="totallyTimeSpent" value="12764000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-28" width="1920" height="1108" extended-state="0" />
+    <frame x="0" y="25" width="1440" height="1595" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16903633" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23006351" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -201,7 +272,8 @@
     <MESSAGE value="Fix active class" />
     <MESSAGE value="Fix footer" />
     <MESSAGE value="Fix link" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix link" />
+    <MESSAGE value="France insoumise" />
+    <option name="LAST_COMMIT_MESSAGE" value="France insoumise" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/js/kl-scripts.js">
@@ -218,34 +290,152 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="465" selection-start-line="465" selection-end-line="499" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="-2382">
+          <caret line="245" column="51" selection-start-line="245" selection-start-column="51" selection-end-line="245" selection-end-column="51" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/union-europeenne-c-est-quoi.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="257" column="60" selection-start-line="257" selection-start-column="60" selection-end-line="257" selection-end-column="60" />
+        <state relative-caret-position="5060">
+          <caret line="220" column="76" lean-forward="true" selection-start-line="220" selection-start-column="76" selection-end-line="220" selection-end-column="76" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/parlement-europeen.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="838">
-          <caret line="460" column="7" selection-start-line="460" selection-start-column="7" selection-end-line="460" selection-end-column="7" />
+        <state relative-caret-position="936">
+          <caret line="447" lean-forward="true" selection-start-line="447" selection-end-line="447" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#29055#29061#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listes/la-france-insoumise.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="409" column="22" lean-forward="true" selection-start-line="409" selection-start-column="22" selection-end-line="409" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#22206#22212#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listes/une-france-royale.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listes/la-ligne-claire.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listes/parti-pirate.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listes/renaissance-soutenue-par-la-republique-en-marche.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listes/democratie-representative.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/liste.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listes/ensemble-patriotes-et-gilets-jaunes.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listes/pace.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listes/urgence-ecologie.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listes/liste-de-la-reconquete.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listes/les-europeens.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listes/envie-deurope-ecologie-sociale.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listes/parti-federaliste-europeen.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listes/mouvement-pour-lintiative-citoyenne.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listes/cnip.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listes/allons-enfants.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listes/decroissance-2019.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listes/lutte-ouvriere.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listes/pour-leurope-des-gens.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listes/ensemble-pour-le-frexit.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listes/liste-citoyenne-du-printemps-europeens.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listes/a-voix-egales.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listes/prenez-le-pouvoir.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listes/neutre-et-actif.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listes/parti-revolutionnaire-communistes.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listes/esperanto.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listes/evolution-citoyenne.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listes/alliance-jaune.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listes/union-de-la-droite-et-du-centre.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listes/europe-ecologie.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listes/parti-animaliste.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listes/les-oublies-de-l'europe.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listes/udlef.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listes/une-europe-au-service-des-peuples.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
         </state>
       </provider>
     </entry>
