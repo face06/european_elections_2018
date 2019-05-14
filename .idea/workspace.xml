@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8c908393-7b99-47c1-9501-a886854e777e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/listes/a-voix-egales.html" beforeDir="false" afterPath="$PROJECT_DIR$/listes/a-voix-egales.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/listes/parti-revolutionnaire-communistes.html" beforeDir="false" afterPath="$PROJECT_DIR$/listes/parti-revolutionnaire-communistes.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,15 +29,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/listes/allons-enfants.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="574">
-              <caret line="371" column="109" lean-forward="true" selection-start-line="371" selection-start-column="109" selection-end-line="371" selection-end-column="109" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/listes/decroissance-2019.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="827">
@@ -58,11 +49,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/listes/a-voix-egales.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="344" column="40" lean-forward="true" selection-start-line="344" selection-start-column="40" selection-end-line="344" selection-end-column="40" />
+            <state relative-caret-position="574">
+              <caret line="345" column="38" lean-forward="true" selection-start-line="345" selection-start-column="38" selection-end-line="345" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -97,11 +88,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/listes/neutre-et-actif.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="327" column="54" lean-forward="true" selection-start-line="327" selection-start-column="54" selection-end-line="327" selection-end-column="54" />
+            <state relative-caret-position="730">
+              <caret line="345" column="72" lean-forward="true" selection-start-line="345" selection-start-column="72" selection-end-line="345" selection-end-column="72" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/listes/parti-revolutionnaire-communistes.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="644">
+              <caret line="358" column="29" lean-forward="true" selection-start-line="358" selection-start-column="29" selection-end-line="358" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -180,7 +180,6 @@
         <option value="$PROJECT_DIR$/listes/esperanto.html" />
         <option value="$PROJECT_DIR$/listes/europe-ecologie.html" />
         <option value="$PROJECT_DIR$/listes/parti-animaliste.html" />
-        <option value="$PROJECT_DIR$/listes/neutre-et-actif.html" />
         <option value="$PROJECT_DIR$/listes/une-france-royale.html" />
         <option value="$PROJECT_DIR$/listes/parti-pirate.html" />
         <option value="$PROJECT_DIR$/listes/renaissance-soutenue-par-la-republique-en-marche.html" />
@@ -200,6 +199,8 @@
         <option value="$PROJECT_DIR$/listes/liste-citoyenne-du-printemps-europeens.html" />
         <option value="$PROJECT_DIR$/listes/democratie-representative.html" />
         <option value="$PROJECT_DIR$/listes/a-voix-egales.html" />
+        <option value="$PROJECT_DIR$/listes/neutre-et-actif.html" />
+        <option value="$PROJECT_DIR$/listes/parti-revolutionnaire-communistes.html" />
       </list>
     </option>
   </component>
@@ -279,7 +280,7 @@
       <updated>1557743300645</updated>
       <workItem from="1557743303547" duration="7554000" />
       <workItem from="1557768701565" duration="3389000" />
-      <workItem from="1557825281633" duration="1445000" />
+      <workItem from="1557825281633" duration="1687000" />
     </task>
     <task id="LOCAL-00001" summary="Fix active class">
       <created>1557776816027</created>
@@ -337,11 +338,25 @@
       <option name="project" value="LOCAL" />
       <updated>1557826682100</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Fix [Emma - JP - correction]">
+      <created>1557826732794</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1557826732794</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Fix [Emma - JP - correction]">
+      <created>1557826878870</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1557826878870</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23786000" />
+    <option name="totallyTimeSpent" value="24028000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1440" height="1595" extended-state="4" />
@@ -448,9 +463,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/listes/prenez-le-pouvoir.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/listes/parti-revolutionnaire-communistes.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/listes/evolution-citoyenne.html">
@@ -698,16 +710,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/listes/neutre-et-actif.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="327" column="54" lean-forward="true" selection-start-line="327" selection-start-column="54" selection-end-line="327" selection-end-column="54" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/listes/democratie-representative.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="621">
@@ -717,8 +719,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/listes/a-voix-egales.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="344" column="40" lean-forward="true" selection-start-line="344" selection-start-column="40" selection-end-line="344" selection-end-column="40" />
+        <state relative-caret-position="574">
+          <caret line="345" column="38" lean-forward="true" selection-start-line="345" selection-start-column="38" selection-end-line="345" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listes/neutre-et-actif.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="730">
+          <caret line="345" column="72" lean-forward="true" selection-start-line="345" selection-start-column="72" selection-end-line="345" selection-end-column="72" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listes/parti-revolutionnaire-communistes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="358" column="29" lean-forward="true" selection-start-line="358" selection-start-column="29" selection-end-line="358" selection-end-column="29" />
         </state>
       </provider>
     </entry>
